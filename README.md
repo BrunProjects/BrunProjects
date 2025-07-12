@@ -50,4 +50,5 @@
 ### 🔌 Hardware/IoT
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
-
+### Comunidade
+![codewars](https://www.codewars.com/users/Bruno%20Alencar/badges/large)
